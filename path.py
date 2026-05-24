@@ -11,4 +11,4 @@ print("""
 
 #CUSTOM SCRIPT FILES GO HERE, e.g
 
-#os.popen("python plugins/wake_on_lan_plugin.py")
+#os.popen("python plugins/882435.py")
