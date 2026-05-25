@@ -67,10 +67,6 @@ try:
             #time.sleep(2)
             GENERATE_TTS.initialize()
             playsound("extscripts/voicelines/voice.mp3", block=True)
-        if resultLength == 5:
-            z = random.randint(1,3)
-            megastr = ("music/" + str(z) + ".mp3")
-            playsound(megastr, block=True)
 
 except KeyboardInterrupt:
     print("Killing U.R.I.A")

@@ -1,6 +1,6 @@
 '''
 
-   D.A.N (Docked protocol ApplicatioN)
+   D.A.M.N (Docked Application MaNager)
 
    Version 0.1, 2026-5-22
 
