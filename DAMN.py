@@ -2,7 +2,7 @@
 
    D.A.M.N (Docked Application MaNager)
 
-   Version 0.1, 2026-5-22
+   Version 0.1, 2026-5-24
 
    Secondary silent partner system to URIA, focused on numpad input commands over claps. Used to activate specific plugins by number, modulation the plugin system of URIA to individual scripts.
    Whereas URIA will load a set list of plugins automatically in one big giant list, DAN will load individual plugins in the order you punch them in.
